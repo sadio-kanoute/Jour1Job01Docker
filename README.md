@@ -60,3 +60,6 @@ Open `http://localhost:8088` in your browser.
 
 12. Publication de l'image sur Docker Hub (`docker push kanoutesadio/welcome-to-docker:latest`)
     ![Publication sur Docker Hub](image-11.png)
+
+13. Vérification de l'application modifiée dans le navigateur (`http://localhost:8088`)
+    ![Application modifiée](image-12.png)
