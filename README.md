@@ -17,6 +17,7 @@ Docker version 29.1.2, build 890dcca
 **Capture d'écran :**
 ![alt text](image.png)
 ![Capture jour1](image-jour1.png)
+![Capture jour2](image-jour2.png)
 
 ## 2. Afficher les informations système Docker
 
@@ -33,6 +34,7 @@ Cette commande affiche toutes les informations détaillées sur l'installation D
 
 ![alt text](image-1.png)
 ![Capture jour1](image-1-jour1.png)
+![Capture jour2](image-1-jour2.png)
 
 ## 3. Lister les conteneurs actifs
 
@@ -49,6 +51,7 @@ Cette commande affiche la liste des conteneurs Docker en cours d'exécution. Act
 
 ![alt text](image-2.png)
 ![Capture jour1](image-2-jour1.png)
+![Capture jour2](image-2-jour2.png)
 
 ## 4. Lister les images Docker locales
 
@@ -65,6 +68,7 @@ Cette commande affiche toutes les images Docker téléchargées et disponibles l
 
 ![alt text](image-3.png)
 ![Capture jour1](image-3-jour1.png)
+![Capture jour2](image-3-jour2.png)
 
 ## 5. Tester la commande docker run
 
@@ -81,6 +85,7 @@ Cette commande affiche l'aide et toutes les options disponibles pour créer et l
 
 ![alt text](image-4.png)
 ![Capture jour1](image-4-jour1.png)
+![Capture jour2](image-4-jour2.png)
 
 ## 6. Tester la commande docker stop
 
@@ -97,6 +102,7 @@ Cette commande affiche l'aide pour arrêter un ou plusieurs conteneurs en cours 
 
 ![alt text](image-5.png)
 ![Capture jour1](image-5-jour1.png)
+![Capture jour2](image-5-jour2.png)
 
 ## 7. Récupérer une image Docker
 
@@ -113,6 +119,7 @@ L'image nginx a été téléchargée avec succès depuis Docker Hub. L'image est
 
 ![alt text](image-6.png)
 ![Capture jour1](image-6-jour1.png)
+![Capture jour2](image-6-jour2.png)
 
 ## 8. Vérifier l'image téléchargée
 
@@ -129,6 +136,7 @@ Affiche la liste des images Docker locales. L'image nginx:latest est maintenant 
 
 ![alt text](image-7.png)
 ![Capture jour1](image-7-jour1.png)
+![Capture jour2](image-7-jour2.png)
 
 ## 9. Construire et lancer le conteneur Docker
 
@@ -151,11 +159,13 @@ docker run -it --rm -p 8080:80 nginx
 
 ![alt text](image-8.png)
 ![Capture jour1](image-8-jour1.png)
+![Capture jour2](image-8-jour2.png)
 
 **Capture d'écran du navigateur :**
 
 ![alt text](image-9.png)
 ![Capture jour1](image-9-jour1.png)
+![Capture jour2](image-9-jour2.png)
 
 ## 10. Lister tous les conteneurs (actifs et arrêtés)
 
@@ -172,6 +182,7 @@ Affiche tous les conteneurs, qu'ils soient en cours d'exécution ou arrêtés. A
 
 ![alt text](image-10.png)
 ![Capture jour1](image-10-jour1.png)
+![Capture jour2](image-10-jour2.png)
 
 ## 11. Supprimer un conteneur
 
@@ -190,6 +201,7 @@ docker rm --help
 
 ![alt text](image-11.png)
 ![Capture jour1](image-11-jour1.png)
+![Capture jour2](image-11-jour2.png)
 
 ## 12. Supprimer une image Docker
 
